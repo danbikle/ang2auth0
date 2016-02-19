@@ -68,3 +68,15 @@ I saw this
 Next, I used my browser to GET localhost:3000.
 
 ![a1.png](images/a1.png)
+
+I signed up and it worked:
+
+![a2.png](images/a2.png)
+
+And this:
+
+![a3.png](images/a3.png)
+
+I was happy:
+
+![a4.png](images/a4.png)
