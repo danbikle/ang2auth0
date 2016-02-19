@@ -15,6 +15,7 @@ git clone https://github.com/danbikle/ang2auth0
 cd ~/ang2auth0/
 ls -l
 cd ~/ang2auth0/nodejs-jwt-authentication-sample/
+npm set progress=false
 npm install
 PORT=3001 node server.js
 ```
