@@ -16,14 +16,14 @@ cd ~/ang2auth0/
 ls -l
 cd ~/ang2auth0/nodejs-jwt-authentication-sample/
 npm set progress=false
-npm install
+npm install -s
 PORT=3001 node server.js
 ```
 
 Those shell commands worked well on my laptop so I opened another shell and ran these shell commands:
 ```bash
 cd ~/ang2auth0/angular2-authentication-sample/
-npm install
+npm install -s
 npm start
 ```
 
