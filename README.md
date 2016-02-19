@@ -65,5 +65,6 @@ I saw this
 </html>
 ```
 
+Next, I used my browser to GET localhost:3000.
 
-
+![a1.png](images/a1.png)
