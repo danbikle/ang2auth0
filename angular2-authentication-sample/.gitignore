@@ -30,7 +30,7 @@ Thumbs.db
 .idea
 
 # Node Files #
-node_modules
+# node_modules
 bower_components
 
 # Dist       #
